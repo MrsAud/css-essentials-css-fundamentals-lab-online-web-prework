@@ -24,3 +24,8 @@ nav a {
   padding-left: 10px;
   background-color: #12de45;
 }
+
+figcaption {
+  font-size: smaller;
+  text-align: center
+}
