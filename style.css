@@ -30,8 +30,8 @@ figcaption {
   text-align: center;
 }
 
-#featured-property p {
+featured-property p {
   width: 800px;
-  align-items: center;
+  text-align: center;
   
 }
